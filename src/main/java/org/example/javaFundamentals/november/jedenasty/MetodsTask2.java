@@ -2,8 +2,8 @@ package org.example.javaFundamentals.november.jedenasty;
 
 public class MetodsTask2 {
     public static void main(String[] args) {
-        System.out.println(pow2(2));//4
-        System.out.println(pow(2, 3));
+        System.out.println(pow2(2));//4, druhá mocnina
+        System.out.println(pow(2, 3));//8, tretia mocnina
         System.out.println(printArray(new int[]{1, -2, 3}));//[1, 2, 3]
     }
 

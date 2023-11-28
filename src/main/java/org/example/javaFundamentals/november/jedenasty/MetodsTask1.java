@@ -10,16 +10,18 @@ public class MetodsTask1 {
     }
 
     static int lessNumber(int a) {
+
         return a - 2;
     }
 
-    static int abs(int b) {
+    static int abs(int b) {//absolútna hodnota
         if (b > 0) {
             return b;
         }
         if (b < 0) {
             return b * (-1);
-        } else {
+        }
+        else {
             return 0;
         }
     }
