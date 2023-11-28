@@ -33,4 +33,4 @@ public class MetodsTask2 {
         }
         return "[" + asd + "]";
     }
-}
+}//na videu som skončila 3h 32m
