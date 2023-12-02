@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Pridanie všetkých projektov z java fundamentals a vytvorenie ostatných častí z celého kurzu">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="metods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/VaccumCleaner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Metods3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/MetodsTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/MetodsTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/MetodsTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/MetodsTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Tale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Tale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/TaleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/TaleReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +28,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2YilKUeHYWJYnG1dSFXl8i9oeBE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example",
+    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom",
     "onboarding.tips.debug.path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
@@ -56,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetodsTask2">
+  <component name="RunManager" selected="Application.TaleReader">
     <configuration name="Metods3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.javaFundamentals.november.jedenasty.Metods3" />
       <module name="SDA_vsetko_v_jednom" />
@@ -83,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaleReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaFundamentals.november.jedenasty.TaleReader" />
+      <module name="SDA_vsetko_v_jednom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.javaFundamentals.november.jedenasty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaleReader" />
         <item itemvalue="Application.MetodsTask2" />
         <item itemvalue="Application.Metods3" />
       </list>
@@ -107,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701020589594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="metods">
+      <option name="closed" value="true" />
+      <created>1701151759173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701151759173</updated>
+    </task>
+    <task id="LOCAL-00003" summary="metods">
+      <option name="closed" value="true" />
+      <created>1701152868099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701152868099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pridanie všetkých projektov z java fundamentals a vytvorenie ostatných častí z celého kurzu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pridanie všetkých projektov z java fundamentals a vytvorenie ostatných častí z celého kurzu" />
+    <MESSAGE value="metods" />
+    <option name="LAST_COMMIT_MESSAGE" value="metods" />
   </component>
 </project>
