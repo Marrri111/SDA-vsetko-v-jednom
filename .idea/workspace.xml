@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Tale a TaleReader sú úplne spravené, pridala som triedy Room a VaccumCleaner">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/jednaVecDokopy/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/jednaVecDokopy/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/Room.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/VaccumCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/jednaVecDokopy/VaccumCleaner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/jednaVecDokopy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/jednaVecDokopy/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Main, Room, Service, Vaccum Cleaner" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom",
-    "onboarding.tips.debug.path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
@@ -158,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701550457197</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Main, Room, Service, Vaccum Cleaner">
+      <option name="closed" value="true" />
+      <created>1701590261252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701590261252</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Main, Room, Service, Vaccum Cleaner">
+      <option name="closed" value="true" />
+      <created>1701593641513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701593641513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +185,7 @@
     <MESSAGE value="Pridanie všetkých projektov z java fundamentals a vytvorenie ostatných častí z celého kurzu" />
     <MESSAGE value="metods" />
     <MESSAGE value="Tale a TaleReader sú úplne spravené, pridala som triedy Room a VaccumCleaner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tale a TaleReader sú úplne spravené, pridala som triedy Room a VaccumCleaner" />
+    <MESSAGE value="Main, Room, Service, Vaccum Cleaner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main, Room, Service, Vaccum Cleaner" />
   </component>
 </project>

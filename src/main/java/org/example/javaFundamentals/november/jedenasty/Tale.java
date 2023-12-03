@@ -1,6 +1,8 @@
 package org.example.javaFundamentals.november.jedenasty;
 
 public class Tale {
+    //getters are used to retrieve the value of a given field
+    //setters are used to set the value of a given field
     //táto trieda je šablóna budúceho objektu
     //settry a gettry a construktor viem spustiť cez klávesovú skratku (control a späť(enter))
     private String nazev;//(field)
