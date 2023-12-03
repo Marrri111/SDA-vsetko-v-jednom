@@ -11,4 +11,4 @@ public class Service {
     public void cleanRoom(Room room){
         System.out.println(name+" uklidila pokoj "+room.getName()+" za "+1000/vc.getPow());
     }
-}
+}//na videu som skončila na 4h 42m
