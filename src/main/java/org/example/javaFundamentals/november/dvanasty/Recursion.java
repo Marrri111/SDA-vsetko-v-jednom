@@ -45,15 +45,14 @@ public class Recursion {
 
     static int factRecVeryNice(int n) {
         return (n == 1) ? 1 : factRecNice(n - 1) * n;
-        //        if (n == 1) {
-//            return 1;
-//        } else {
-//            return factRecNice(n - 1) * n;
-//        }
+        // if (n == 1) {
+        // return 1;
+        // } else {
+        // return factRecNice(n - 1) * n;
+        // }
     }
 
     static int inc(int n) {
         return n + 1;
     }
-}
-// skončila som 0h 19m
+}//skončila som na 0h 31m
