@@ -43,7 +43,7 @@ public class Recursion {
         }
     }
 
-    static int factRecVeryNice(int n) {
+    static int factRecVeryNice(int n) {//toto je zapísané pomocou ternaru
         return (n == 1) ? 1 : factRecNice(n - 1) * n;
         // if (n == 1) {
         // return 1;
@@ -55,4 +55,4 @@ public class Recursion {
     static int inc(int n) {
         return n + 1;
     }
-}//skončila som na 0h 31m
+}//skončila som na 0h 42m
