@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="." />
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p2",
-    "onboarding.tips.debug.path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/javaFundamentalsCoding/blok4&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentalsCoding/blok4" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p2" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p1" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentalsCoding/november" />
@@ -226,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702200725731</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <option name="closed" value="true" />
+      <created>1702220017513</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702220017513</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -10,7 +10,7 @@ Formulas you’ll need:
 
 ![img.png](img.png)
 
-Test data:
+CalculatorTest data:
 
 ![img_1.png](img_1.png)
 
