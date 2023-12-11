@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/FifthExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/FirstExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/FourthExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/SecondExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/SeventhExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/SixthExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/ThirdExercise.java" afterDir="false" />
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="1-8 úlohy z fundamentals">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/EleventhExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/TenthExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/ThirteenthExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/TwelfthExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/conditional/NinthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/conditional/NinthExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +69,13 @@
       <recent name="org.example.javaFundamentals.november.dvanasty" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SeventhExercise">
-    <configuration name="FifthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.FifthExercise" />
+  <component name="RunManager" selected="Application.ThirteenthExercise">
+    <configuration name="EleventhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.EleventhExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.*" />
+          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FourthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.FourthExercise" />
+    <configuration name="NinthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.conditional.NinthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.*" />
+          <option name="PATTERN" value="org.example.cvicenia.conditional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeventhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.SeventhExercise" />
+    <configuration name="TenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.TenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.*" />
+          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.SixthExercise" />
+    <configuration name="ThirteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.ThirteenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.*" />
+          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.ThirdExercise" />
+    <configuration name="TwelfthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.TwelfthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.*" />
+          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeventhExercise" />
-        <item itemvalue="Application.SixthExercise" />
-        <item itemvalue="Application.FifthExercise" />
-        <item itemvalue="Application.FourthExercise" />
-        <item itemvalue="Application.ThirdExercise" />
+        <item itemvalue="Application.ThirteenthExercise" />
+        <item itemvalue="Application.TwelfthExercise" />
+        <item itemvalue="Application.EleventhExercise" />
+        <item itemvalue="Application.TenthExercise" />
+        <item itemvalue="Application.NinthExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702228729029</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1-8 úlohy z fundamentals">
+      <option name="closed" value="true" />
+      <created>1702242596580</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702242596580</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +281,8 @@
     <MESSAGE value="Main, Room, Service, Vaccum Cleaner" />
     <MESSAGE value="BinarySearch a Recursion" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="1-8 úlohy z fundamentals" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-8 úlohy z fundamentals" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
