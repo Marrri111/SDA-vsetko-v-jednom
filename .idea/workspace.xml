@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Úpravy" />
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Pridanie súborov z java advanced sestnácteho">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/FourteenthExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/tables/FifteenthExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/tables/SixteenthExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTestAssertJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTestAssertJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/softwareTestingFundamentals",
+    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/javaAdvanced",
     "onboarding.tips.debug.path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -48,11 +58,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/softwareTestingFundamentals" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentalsCoding/blok4" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p2" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p1" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentalsCoding/november" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -62,9 +75,22 @@
       <recent name="org.example.javaFundamentals.november.dvanasty" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThirteenthExercise">
-    <configuration name="EleventhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.EleventhExercise" />
+  <component name="RunManager" selected="Application.SixteenthExercise">
+    <configuration name="FifteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.tables.FifteenthExercise" />
+      <module name="SDA_vsetko_v_jednom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.cvicenia.tables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.FourteenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
@@ -76,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NinthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.conditional.NinthExercise" />
+    <configuration name="SixteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.tables.SixteenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.conditional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.TenthExercise" />
-      <module name="SDA_vsetko_v_jednom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
+          <option name="PATTERN" value="org.example.cvicenia.tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SixteenthExercise" />
+        <item itemvalue="Application.FifteenthExercise" />
+        <item itemvalue="Application.FourteenthExercise" />
         <item itemvalue="Application.ThirteenthExercise" />
         <item itemvalue="Application.TwelfthExercise" />
-        <item itemvalue="Application.EleventhExercise" />
-        <item itemvalue="Application.TenthExercise" />
-        <item itemvalue="Application.NinthExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702799812946</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Pridanie súborov z java advanced sestnácteho">
+      <option name="closed" value="true" />
+      <created>1702800595491</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1702800595491</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +314,8 @@
     <MESSAGE value="1-8 úlohy z fundamentals" />
     <MESSAGE value="9-13 úlohy z fundamentals" />
     <MESSAGE value="Úpravy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Úpravy" />
+    <MESSAGE value="Pridanie súborov z java advanced sestnácteho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pridanie súborov z java advanced sestnácteho" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

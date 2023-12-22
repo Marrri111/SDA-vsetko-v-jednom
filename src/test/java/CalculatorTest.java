@@ -123,8 +123,8 @@ public class CalculatorTest {
     @DisplayName("Test polí")
     void testArrayEquals() {
         Calculator calculator = new Calculator();
-        List<Integer> result_list = calculator.prime_factorization(12);
-        int[] result = result_list.stream().mapToInt(Integer::intValue).toArray();
+        List<Integer> result_list = calculator.prime_factorization(12); //toto je zosznam Integerú
+        int[] result = result_list.stream().mapToInt(Integer::intValue).toArray(); //zoznam integerú sme potrebovali pretypovať na pole
 
         Assertions.assertArrayEquals(new int[]{1, 2, 3}, new int[]{1, 2, 3});
         Assertions.assertArrayEquals(new int[]{2, 2, 3}, result);
