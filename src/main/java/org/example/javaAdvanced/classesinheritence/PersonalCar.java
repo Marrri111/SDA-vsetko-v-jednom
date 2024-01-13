@@ -1,7 +1,7 @@
 package org.example.javaAdvanced.classesinheritence;
 
 // potomet hlavni tridy
-public class PersonalCar extends MainCar {
+public class PersonalCar extends Car {
 
     public PersonalCar(String aStrCar) {
         super(aStrCar);
@@ -13,6 +13,6 @@ public class PersonalCar extends MainCar {
 
     @Override
     public void printType() {
-        System.out.println(dataclass.stringCar + " osobni vozidlo");
+        System.out.println(stringCar + " osobni vozidlo");
     }
 }

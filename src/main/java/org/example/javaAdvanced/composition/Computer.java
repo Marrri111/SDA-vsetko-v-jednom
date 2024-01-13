@@ -1,19 +1,23 @@
 package org.example.javaAdvanced.composition;
 
-public class Computer {
+import java.io.Closeable;
+import java.io.IOException;
+
+public class Computer implements Closeable {
     private Proccessor proccessor;
     private Memory memory;
 
+    public Computer() {
+        proccessor = new Proccessor();
+        memory = new Memory(555);
+    }
 
     public Computer(Proccessor aProccessor, Memory aMemory) {
         proccessor = aProccessor;
         memory = aMemory;
     }
 
-    public Computer() {
-        proccessor = new Proccessor();
-        memory = new Memory();
-    }
+
 
     public Proccessor getProccessor() {
         return proccessor;
@@ -34,9 +38,13 @@ public class Computer {
     // -------------------------------------------------------------------
     public Integer getMemorySize() {
         if (memory != null)
-            return memory.capoacity;
+            return memory.capacity;
         else
             return 0; // nebo vyhodíme chybu (exception)
     }
 
+    @Override
+    public void close() throws IOException {
+        // uzavrit cokoli
+    }
 }

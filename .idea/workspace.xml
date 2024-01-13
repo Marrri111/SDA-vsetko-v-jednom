@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment="Pridanie súborov z java advanced sestnácteho">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/loops/FourteenthExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/tables/FifteenthExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cvicenia/tables/SixteenthExercise.java" afterDir="false" />
+    <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cz/itnetwork/Papousek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/mainpkg/AccModifMainObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/mainpkg/AccModifMainObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTestAssertJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTestAssertJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <recent name="org.example.javaFundamentals.november.dvanasty" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SixteenthExercise">
+  <component name="RunManager" selected="Application.Papousek">
     <configuration name="FifteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.tables.FifteenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
@@ -102,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Papousek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cz.itnetwork.Papousek" />
+      <module name="SDA_vsetko_v_jednom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.cz.itnetwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SixteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.tables.SixteenthExercise" />
       <module name="SDA_vsetko_v_jednom" />
@@ -115,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirteenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.ThirteenthExercise" />
+    <configuration name="UserInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.javaFundamentalsCoding.blok2.skipi01.UserInterface" />
       <module name="SDA_vsetko_v_jednom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwelfthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cvicenia.loops.TwelfthExercise" />
-      <module name="SDA_vsetko_v_jednom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.cvicenia.loops.*" />
+          <option name="PATTERN" value="org.example.javaFundamentalsCoding.blok2.skipi01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Papousek" />
+        <item itemvalue="Application.UserInterface" />
         <item itemvalue="Application.SixteenthExercise" />
         <item itemvalue="Application.FifteenthExercise" />
         <item itemvalue="Application.FourteenthExercise" />
-        <item itemvalue="Application.ThirteenthExercise" />
-        <item itemvalue="Application.TwelfthExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702800595491</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".">
+      <option name="closed" value="true" />
+      <created>1703273097357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703273097357</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,12 +314,12 @@
     <MESSAGE value="Tale a TaleReader sú úplne spravené, pridala som triedy Room a VaccumCleaner" />
     <MESSAGE value="Main, Room, Service, Vaccum Cleaner" />
     <MESSAGE value="BinarySearch a Recursion" />
-    <MESSAGE value="." />
     <MESSAGE value="1-8 úlohy z fundamentals" />
     <MESSAGE value="9-13 úlohy z fundamentals" />
     <MESSAGE value="Úpravy" />
     <MESSAGE value="Pridanie súborov z java advanced sestnácteho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pridanie súborov z java advanced sestnácteho" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

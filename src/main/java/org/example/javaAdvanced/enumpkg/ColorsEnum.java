@@ -1,4 +1,4 @@
-package org.example.javaAdvanced.enumerations;
+package org.example.javaAdvanced.enumpkg;
 
 public enum ColorsEnum {
     RED("red color"),
@@ -10,9 +10,9 @@ public enum ColorsEnum {
     private String colorName;
 
     ColorsEnum(String aColorName) {
+
         colorName = aColorName;
     }
-
     public String getColorName() {
         return colorName;
     }

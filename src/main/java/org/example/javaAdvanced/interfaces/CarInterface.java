@@ -10,12 +10,11 @@ public interface CarInterface {
         return getSPZ() + "-----" + getLength();
     }
 
+    // ----------------------------------------
     String getSPZ();
-
     String getCarType();
-
     Integer getLength();
-
     Integer getWith();
+    // ----------------------------------------
 
 }

@@ -1,4 +1,4 @@
-package org.example.javaAdvanced.enumerations;
+package org.example.javaAdvanced.enumpkg;
 
 public enum BasicColorsEnum {
     RED,
