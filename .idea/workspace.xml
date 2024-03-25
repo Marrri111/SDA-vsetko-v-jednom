@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8cec7eb-0d27-4add-913e-c9974a20c205" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cz/itnetwork/Papousek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/mainpkg/AccModifMainObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/mainpkg/AccModifMainObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/accessmodifier/nextpkg/AccModifOtherPkg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,34 +37,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/javaAdvanced",
-    "onboarding.tips.debug.path": "/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/test/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sklen/Desktop/Java_kurz/SDA_vsetko_v_jednom/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/softwareTestingFundamentals" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentalsCoding/blok4" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p2" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaFundamentals/november/jedenasty/modifiers/p1" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/composition" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/classesinheritence" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/javaAdvanced/annotations" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.javaAdvanced.abstractclasses" />
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.javaAdvanced.accessmodifier" />
       <recent name="" />
       <recent name="org.example.javaFundamentals.november.dvanasty.uctovnik" />
       <recent name="org.example.javaFundamentals.november.dvanasty.statitc" />
       <recent name="org.example.javaFundamentals.november.dvanasty.cinema" />
-      <recent name="org.example.javaFundamentals.november.dvanasty" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Papousek">
@@ -292,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703273097357</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=".">
+      <option name="closed" value="true" />
+      <created>1705166106379</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705166106379</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
